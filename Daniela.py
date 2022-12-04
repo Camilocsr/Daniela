@@ -144,7 +144,7 @@ def Take_query(): # metodo principal para comandos...
         if "abrir código" in query: 
             speak("abriendo codigo de mi creador") 
               
-            webbrowser.open("www.github.com/Camilocsr/Daniela_Asistente") 
+            webbrowser.open("https://github.com/Camilocsr/Daniela.git") 
             continue
               
         elif "día"in query: 
